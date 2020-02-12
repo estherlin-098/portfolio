@@ -32,4 +32,4 @@ export default App;
 //git init
 // git remote add orgin
 //npm run build
-//
+//git add 
