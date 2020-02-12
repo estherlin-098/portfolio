@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/estherlin-098/portfolio/precache-manifest.fbb38f1e1eeab5d046f4d7104ada3447.js"
+  "/estherlin-098/portfolio/precache-manifest.a55b2b5c9369d2bc3d8e22ae7fe96ae2.js"
 );
 
 self.addEventListener('message', (event) => {

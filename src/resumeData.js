@@ -1,6 +1,6 @@
 let resumeData = {
-  name: "Evan Feenstra",
-  role: "Frontend Web Developer",
+  name: "Esther Lin",
+  role: "UX Designer",
   linkedinId:"evanfeenstra",
   skypeid: "Your skypeid",
   roleDescription: "asdf  blah blahI like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or play music in my free time.",

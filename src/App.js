@@ -29,4 +29,7 @@ export default App;
 //npm install
 
 //kill the previous re link (rm -rf .git)
+//git init
+// git remote add orgin
+//npm run build
 //
